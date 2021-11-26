@@ -16,7 +16,7 @@ A Stroyteller who knows how to present data insights to drive business value.
 
 # Education
 
-Bachelors degress in computer Science & mathematics
+Bachelors degree in Computer Science & Mathematics
 
 # Business Domain:
 
